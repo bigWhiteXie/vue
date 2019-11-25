@@ -358,4 +358,4 @@ Thank you to all the people who already contributed to Vue!
 
 Copyright (c) 2013-present, Yuxi (Evan) You
 //练习git使用，此时代码已经修改完
-//work要被合并啦
+//work要被合并啦，实验分支代码区别
