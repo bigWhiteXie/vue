@@ -357,5 +357,4 @@ Thank you to all the people who already contributed to Vue!
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
-//练习git使用，此时代码已经修改完
-//我最他妈牛逼
+//我想看看
