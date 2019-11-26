@@ -1,6 +1,6 @@
-﻿<<<<<<< HEAD
+﻿
 
-=======
+
 ﻿<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 
 <p align="center">
@@ -364,4 +364,4 @@ Copyright (c) 2013-present, Yuxi (Evan) You
 //我最他妈牛逼
 //我最他妈帅
 ﻿//这是ready分支
->>>>>>> origin/dev
+
